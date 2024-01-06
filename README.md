@@ -35,6 +35,8 @@ To facilitate a practical understanding, we provide Colab notebooks for hands-on
 - [Derivative_Informed_GP_2D_Toy_Problem](https://colab.research.google.com/github/rfarell/Physics_Informed_Gaussian_Processes/blob/main/notebooks/Derivative_Informed_GP_2D_Toy_Problem.ipynb): A 2D toy problem demonstration.
 - [Physics_Informed_GP_2D_Burgers_PDE](https://colab.research.google.com/github/rfarell/Physics_Informed_Gaussian_Processes/blob/main/notebooks/Physics_Informed_GP_2D_Burgers_PDE.ipynb): Application to the Burger's equation in a 2D setting.
 - [Physics_Informed_GP_2D_Burgers_PDE_with_NN_Mean](https://colab.research.google.com/github/rfarell/Physics_Informed_Gaussian_Processes/blob/main/notebooks/Physics_Informed_GP_2D_Burgers_PDE_with_NN_Mean.ipynb): Advanced exploration with a neural network mean function in the context of the Burger's equation.
+- [SSGP_Overview_Pendulum](https://colab.research.google.com/github/rfarell/Physics_Informed_Gaussian_Processes/blob/main/notebooks/SSGP_Overview_Pendulum.ipynb): Symplectic Spectrum Gaussian Processes from [this code](https://github.com/yusuk-e/SSGP).
+
 
 ## Conclusion
 PIGP represents a significant step forward in combining machine learning with physical understanding. By embedding known physical laws into Gaussian Processes, we enhance the model's ability to handle noisy data, thereby opening new avenues in scientific modeling and prediction.
